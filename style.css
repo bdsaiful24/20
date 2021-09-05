@@ -1,0 +1,21 @@
+.logo img{
+    width: 30px;
+}
+.header{
+    background: #e3f2fd;
+}
+.slider img{
+    height: 70vh;
+}
+.accordion-item::after{
+    content: none;
+}
+body {
+    position: relative;
+  }
+  .scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+  }  
